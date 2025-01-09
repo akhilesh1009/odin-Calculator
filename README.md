@@ -1,1 +1,3 @@
 # odin-Calculator
+
+This project is a simple web-based calculator built with HTML, CSS, and JavaScript. It supports basic arithmetic operations: addition, subtraction, multiplication, and division. The calculator features a user-friendly interface styled to resemble a real calculator, with support for decimal numbers, backspace functionality, and a clear button to reset the display. It dynamically updates the display to show numbers and operators in sequence, providing a seamless user experience. The project also includes error handling for invalid operations, such as division by zero, and rounds results to prevent overflow. It’s an accessible tool with responsive design and basic keyboard support for improved usability.
